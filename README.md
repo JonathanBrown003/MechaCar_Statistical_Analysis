@@ -18,7 +18,15 @@ Please see below for a summary of the data as returned in R:
 3) All else equal, and taking into account the R-squared value of 0.7149 - this model can be said to be 71% accurate in predicting variability as the R-Squared value is the dependent variable variation that a linear model explains. At 71% accurate, this model is relatively effective at predicting miles per gallon of prototypes. 
 
 ## Summary Statistics on Suspension Coils
+Please see below for a summary of the data as returned in R:
 
+### Lot Summary: 
+![](https://github.com/JonathanBrown003/MechaCar_Statistical_Analysis/blob/ca02a18262be1542f3b78701c94d9560054ae8e8/Resources/Deliv2_Lot_Summary.PNG)
+
+### Total Summary
+![](https://github.com/JonathanBrown003/MechaCar_Statistical_Analysis/blob/ca02a18262be1542f3b78701c94d9560054ae8e8/Resources/Deliv2_Total_Summary.PNG)
+
+1) The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. As you can see above in the Lot Summary, lots 1 & 2 do not exceed this threshold though lot 3 does exceed the threshold of 100 PSI. In total, as seen above in the Total Summary, the totality of all lots has a variance of 62.29 which is well within an acceptable range. A wise solution would be to inspect lot 3 for defects. 
 
 ## T-Tests on Suspension Coils
 
