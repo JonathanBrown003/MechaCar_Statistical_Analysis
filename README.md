@@ -15,7 +15,7 @@ Please see below for a summary of the data as returned in R:
 
 2) The slope of the linear model cannot be considered to be zero because of the low value of the p-value above. The null hypothesis must be rejected as a result of this p-value. 
 
-3) All else equal, and taking into account the R-squared value of 0.7149 - this model can be said to be 71% accurate in predicting variability as the R-Squared value is the dependent variable variation that a linear model explains. 
+3) All else equal, and taking into account the R-squared value of 0.7149 - this model can be said to be 71% accurate in predicting variability as the R-Squared value is the dependent variable variation that a linear model explains. At 71% accurate, this model is relatively effective at predicting miles per gallon of prototypes. 
 
 ## Summary Statistics on Suspension Coils
 
