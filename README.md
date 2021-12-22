@@ -11,9 +11,11 @@ Please see below for a summary of the data as returned in R:
 
 ![](https://github.com/JonathanBrown003/MechaCar_Statistical_Analysis/blob/faab47efc1a186d33618fa94fe62dab96ae9a05a/Resources/Deliv1_Output.PNG)
 
-1) Variance of a non-random variable is generally 0. Taking this into consideration, the intercept, vehicle_length, and ground_clearance variables can be said to provide a non-random amount of variance to the miles per gallon values in this dataset.
+1) Variance of a non-random variable is generally 0. Taking this into consideration, vehicle_length and ground_clearance variables can be said to provide a non-random amount of variance to the miles per gallon values in this dataset.
 
-2) 
+2) The slope of the linear model cannot be considered to be zero because of the low value of the p-value above. The null hypothesis must be rejected as a result of this p-value. 
+
+3) All else equal, and taking into account the R-squared value of 0.7149 - this model can be said to be 71% accurate in predicting variability as the R-Squared value is the dependent variable variation that a linear model explains. 
 
 ## Summary Statistics on Suspension Coils
 
