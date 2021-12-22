@@ -30,5 +30,16 @@ Please see below for a summary of the data as returned in R:
 
 ## T-Tests on Suspension Coils
 
+### Lot 1 T-Test
+![](https://github.com/JonathanBrown003/MechaCar_Statistical_Analysis/blob/05abe13f10eb1f306b94021b04a1aed7d915363a/Resources/Deliv3_Lot1_Ttest.PNG)
+
+### Lot 2 T-Test
+![](https://github.com/JonathanBrown003/MechaCar_Statistical_Analysis/blob/05abe13f10eb1f306b94021b04a1aed7d915363a/Resources/Deliv3_Lot2_Ttest.PNG)
+
+### Lot 3 T-Test
+![](https://github.com/JonathanBrown003/MechaCar_Statistical_Analysis/blob/05abe13f10eb1f306b94021b04a1aed7d915363a/Resources/Deliv3_Lot3_Ttest.PNG)
+
+### One Sample T-Test
+![](https://github.com/JonathanBrown003/MechaCar_Statistical_Analysis/blob/05abe13f10eb1f306b94021b04a1aed7d915363a/Resources/Deliv3_One_Sample_Ttest.PNG)
 
 ## Study Design: MechaCar vs Competition
