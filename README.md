@@ -45,4 +45,13 @@ Please see below for a summary of the data as returned in R:
 1) Lot 3 has a P-Value of 0.04168 which is low enough to reject the null hypothesis. The other 2 lots and the Cumulative T-Test have P-Values high enough to not reject the null hypothesis. Lot 3 needs more evaluation for defects for the purposes of rejecting the coils. This T-Test for Lot 3 along with the high variance as reported in the Summary Statistics heading above point to likely manufacturing defects specifically with Lot 3.   
 
 ## Study Design: MechaCar vs Competition
+The automotive industry is obsessed with progressing to electric vehicles and maximizing fuel efficiency in a government-mandated C.A.F.E. (Corporate Avg. Fuel Economy) standard landscape. To best position the MechaCar for success, we should analyze fuel economy along with cost to optimize the balance for the consumer. 
 
+### Metric to Test
+The metric we would test would be miles per gallon (city and highway combined) per dollar spent in sticker cost. 
+
+### Null Hypothesis
+MechaCar's combined city and highway fuel economy per dollar spent on the projected sticker price is statistically comparable to or higher than the competition.
+
+### Data Needed
+The data needed for this test would be MechaCar's city and highway mileage, average combined mileage, and projected sticker price for both MechaCar and our largest competitors in the same class of car. This would help determine if MechaCar is a class and industry leader in fuel economy. 
