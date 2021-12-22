@@ -8,6 +8,7 @@ The goal of this project is to analyze production data for a new automotive prot
 
 ## Linear Regression to Predict MPG
 Please see below for a summary of the data as returned in R:
+
 ![](https://github.com/JonathanBrown003/MechaCar_Statistical_Analysis/blob/faab47efc1a186d33618fa94fe62dab96ae9a05a/Resources/Deliv1_Output.PNG)
 
 ## Summary Statistics on Suspension Coils
