@@ -39,7 +39,10 @@ Please see below for a summary of the data as returned in R:
 ### Lot 3 T-Test
 ![](https://github.com/JonathanBrown003/MechaCar_Statistical_Analysis/blob/05abe13f10eb1f306b94021b04a1aed7d915363a/Resources/Deliv3_Lot3_Ttest.PNG)
 
-### One Sample T-Test
-![](https://github.com/JonathanBrown003/MechaCar_Statistical_Analysis/blob/05abe13f10eb1f306b94021b04a1aed7d915363a/Resources/Deliv3_One_Sample_Ttest.PNG)
+### Cumulative Data T-Test
+![](https://github.com/JonathanBrown003/MechaCar_Statistical_Analysis/blob/05abe13f10eb1f306b94021b04a1aed7d915363a/Resources/Deliv3_One_Sample_Ttest.PNG
+
+1) Lot 3 has a P-Value of 0.04168 which is low enough to reject the null hypothesis. The other 2 lots and the Cumulative T-Test have P-Values high enough to not reject the null hypothesis. Lot 3 needs more evaluation for defects for the purposes of rejecting the coils.  
 
 ## Study Design: MechaCar vs Competition
+
